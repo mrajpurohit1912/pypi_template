@@ -1,7 +1,4 @@
-ipywidgets
-notebook
-ensure
-py-youtube
+#project requirements below
 
 #dev requirements
 pytest
